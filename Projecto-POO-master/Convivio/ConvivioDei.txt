@@ -1,0 +1,1 @@
+Convido Dos Fixes-Pedro Ribeiro;Coordeiro;Duarte Carvalho-AD,areanome,32,23,futebol/basket;B,barname,50,1.5,32,41;J,nomeJardim,100,21,12;E,nomeExpo,fromArtistica,10,21,21
